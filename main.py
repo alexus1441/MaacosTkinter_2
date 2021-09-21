@@ -9,7 +9,7 @@ button = tk.Button(
   width=25,
   height=5,
   bg="violet",
-  fg"dark green",
+  fg="dark green",
 )
 button.pack()
 window.mainloop()
